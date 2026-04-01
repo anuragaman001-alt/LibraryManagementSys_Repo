@@ -1,0 +1,4 @@
+************* Module /Users/anurag/Desktop/LibraryMngSys/.pylintrc
+.pylintrc:1:0: F0011: error while parsing the configuration: While reading from '/Users/anurag/Desktop/LibraryMngSys/.pylintrc' [line 11]: section 'MASTER' already exists (config-parse-error)
+************* Module online_voting_system
+online_voting_system:1:0: F0001: No module named online_voting_system (fatal)
